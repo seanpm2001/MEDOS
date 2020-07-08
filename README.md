@@ -26,31 +26,29 @@ The main MEDOS (MEadows Disk Operating System) repository, with info on all the 
 
 > [05.2 - Computer languages](#Computer-languages)
 
-[06.0 - B Builds](#B-Builds)
+[06.0 - Audio](#Audio)
 
-[07.0 - Audio](#Audio)
+[07.0 - MEDOS commercial](#MEDOS-commercial)
 
-[08.0 - MEDOS commercial](#MEDOS-commercial)
+[08.0 - Spelling errors](#Spelling-errors)
 
-[09.0 - Spelling errors](#Spelling-errors)
+[09.0 - Included programs](#Included-programs)
 
-[10.0 - Included programs](#Included-programs)
+[10.0 - GitHub issues](#GitHub-issues)
 
-[11.0 - GitHub issues](#GitHub-issues)
+[11.0 - Programs used](#Programs-used)
 
-[12.0 - Programs used](#Programs-used)
+[12.0 - Recommended programs](#Recommended-programs)
 
-[13.0 - Recommended programs](#Recommended-programs)
+[13.0 - MEDOS Version history](#MEDOS-Version-history)
 
-[14.0 - MEDOS Version history](#MEDOS-Version-history)
+[14.0 - Contributers](#Contributers)
 
-[15.0 - Contributers](#Contributers)
+[15.0 - Contributing](#Contributing)
 
-[16.0 - Contributing](#Contributing)
+[16.0 - README info](#README-info)
 
-[17.0 - README info](#README-info)
-
-[18.0 - Footer](#End-of-README-file)
+[17.0 - Footer](#End-of-README-file)
 
 ***
 
@@ -216,7 +214,9 @@ Here are the recommended programs to use for using this project:
 
 ## MEDOS Version history
 
-[GitHub release 1](https://github.com/seanpm2001/MEDOS/releases/tag/V1.00/) - 73 commits (Released: Tuesday, July 7th 2020 at x:xx pm)
+[GitHub release 1)(v1.00)](https://github.com/seanpm2001/MEDOS/releases/tag/V1.00/) - 75 commits (Released: Tuesday, July 7th 2020 at 6:37 pm)
+
+[GitHub release 2 (v1.00.1)](https://github.com/seanpm2001/MEDOS/releases/tag/V1.00.1/) - 95 commits (Released: Tuesday, July 7th 2020 at 7:14 pm)
 
 [More versions coming soon](https://www.example.com/)
 
@@ -226,7 +226,7 @@ Here are the recommended programs to use for using this project:
 
 Currently, I am the only contributer, but if you follow the CONTRIBUTING rules, you can contribute as well.
 
-1. [seanpm2001](https://github.com/seanpm2001/) - 73 commits (As of Tuesday, July 7th 2020 at 6:34 pm)
+1. [seanpm2001](https://github.com/seanpm2001/) - 96 commits (As of Tuesday, July 7th 2020 at 7:20 pm)
 
 2. No other contributers at the moment
 
@@ -242,9 +242,9 @@ Please abide by the contributing rules for this project. They are listed [here.]
 
 File type: `Markdown (*.md)`
 
-Line count (including blank lines): `0,304`
+Line count (including blank lines): `0,322`
 
-File version: `1 (Tuesday, July 7th 2020 at 6:34 pm)`
+File version: `2 (Tuesday, July 7th 2020 at 7:20 pm)`
 
 ***
 
@@ -288,7 +288,25 @@ File version: `1 (Tuesday, July 7th 2020 at 6:34 pm)`
 
 > * Added the version history section
 
-* Version 2 (Coming soon)
+* Version 2 (Tuesday, July 7th 2020 at 7:20 pm)
+
+> Changes:
+
+> * Updated the index
+
+> * Updated the Gist info section
+
+> * Updated the releases section
+
+> * Updated the version history section
+
+* Version 3 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+* Version 4 (Coming soon)
 
 > Changes:
 
